@@ -1,0 +1,62 @@
+body {
+font-family: 'Merriweather', serif;
+	background-image:url("https://i2-prod.somersetlive.co.uk/news/somerset-news/article38753.ece/ALTERNATES/s810/Somerset-Bank-Holiday-Weather.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100%;
+	color: black;
+	display: flex;
+	text-align: center;
+}
+
+
+
+
+}
+
+
+
+
+
+
+.status p {
+  font-size: 50px;
+  text-transform: capitalize;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+.temp{
+  cursor:pointer;
+  color:#006dcc;
+}
+.temp:hover{
+  color:#005096;
+}
+h1 {
+  font-size: 90px;
+}
+
+.all-icon {
+  margin-bottom: 70px;
+}
+
+div.hide {
+  display: none;
+}
+
+.icon {
+  color: black;
+  position: relative;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+
+.bigger-text{
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
